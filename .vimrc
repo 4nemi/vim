@@ -14,6 +14,8 @@ set number
 
 set smartindent
 
+set shiftwidth=4
+
 "検索パターンにおいて大文字と小文字を区別しない
 set ignorecase
 
